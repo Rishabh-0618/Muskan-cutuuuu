@@ -1,9 +1,9 @@
 const messages = [
     "Are you sure?",
     "Pakkaaaaaaaaa??",
-    "itnaaa parshan karta?",
+    "itnaaa pareshan karta?",
     "Pookie please...",
-    "Just think about it!",
+    "baba nahi bhejuga na dinner krne jaldi!",
     "Aichaaaa krogeee!?",
     "Muskan bbyyy you sure...?",
     "Justt sochooo tooo ek baar...",
